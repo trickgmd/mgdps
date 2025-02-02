@@ -1,0 +1,18 @@
+{
+    "id": 1137,
+    "name": "Insert Name Here",
+    "author": "Minotaur256",
+    "creators": ["Minotaur256"],
+    "verifier": "Minotaur256",
+    "verification": "https://youtu.be/NuGgKJ5NV0g?si=uPyrvwl6grno0CM3",
+    "percentToQualify": "46",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Exv",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
