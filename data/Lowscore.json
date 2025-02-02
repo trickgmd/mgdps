@@ -1,0 +1,36 @@
+{
+    "id": 1197,
+    "name": "Lowscore",
+    "author": "trickgmd",
+    "creators": ["trickgmd"],
+    "verifier": "trickgmd",
+    "verification": "",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JacobSpurrell",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Minotaur256",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pugthousand",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ChaosDuCanada",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
