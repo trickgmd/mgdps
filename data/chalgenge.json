@@ -1,0 +1,24 @@
+{
+    "id": 1182,
+    "name": "chalgenge",
+    "author": "khaotyk",
+    "creators": ["khaotyk"],
+    "verifier": "khaotyk",
+    "verification": "",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Minotaur256",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ChaosDuCanada",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
