@@ -1,0 +1,24 @@
+{
+    "id": 1034,
+    "name": "Highscore",
+    "author": "SirLemens",
+    "creators": ["SirLemens"],
+    "verifier": "SirLemens",
+    "verification": "",
+    "percentToQualify": "30",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Minotaur256",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JacobSpurrell",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
