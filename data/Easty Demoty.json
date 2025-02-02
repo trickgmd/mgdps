@@ -1,0 +1,42 @@
+{
+    "id": 1084,
+    "name": "Easty Demoty",
+    "author": "trickgmd",
+    "creators": ["trickgmd"],
+    "verifier": "trickgmd",
+    "verification": "",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Minotaur256",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JacobSpurrell",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Exv",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pugthousand",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ChaosDuCanada",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
