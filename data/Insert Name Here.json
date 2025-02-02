@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 60
         }
+        {
+            "user": "test",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
