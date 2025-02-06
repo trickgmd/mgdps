@@ -25,6 +25,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "pugthousand",
+            "link": "https://www.youtube.com/watch?v=LAEV9XytBFs",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
