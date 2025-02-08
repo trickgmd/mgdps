@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=4mzl8vtSgSQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "JacobSpurrell",
+            "link": "https://www.youtube.com/watch?v=LnVfsRdHqmI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
