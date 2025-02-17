@@ -8,5 +8,11 @@
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Wswaggers",
+            "link": "https://youtu.be/Ud6dpVMWf-M?si=KVYfJpic4VefBHGz",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
