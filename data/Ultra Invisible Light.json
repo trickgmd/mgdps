@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ILIKEBIGTOES",
+            "link": "https://youtu.be/HO_nRMwzSc4?si=b8cV5_mPIybf9Wmi",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
