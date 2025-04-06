@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 60
         },
+        {
+            "user": "ManRoll",
+            "link": "https://www.youtube.com/watch?v=GS4Gh0OrKaQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
