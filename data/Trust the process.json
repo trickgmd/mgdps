@@ -19,6 +19,18 @@
             "link": "https://youtu.be/saWcZkb5BsE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ManRoll",
+            "link": "https://www.youtube.com/watch?v=1MYiDkDEjho",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Limabeanlimo",
+            "link": "https://www.youtube.com/watch?v=z3yoa1R_ivw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
