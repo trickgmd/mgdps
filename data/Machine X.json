@@ -8,5 +8,11 @@
     "percentToQualify": "73",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ManRoll",
+            "link": "https://www.youtube.com/watch?v=AuVxLbBHhsU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
