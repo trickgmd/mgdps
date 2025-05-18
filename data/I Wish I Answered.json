@@ -9,16 +9,17 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "theicegod_",
-            "link": "https://www.youtube.com/shorts/XFIux_wwHt8",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "ManRoll",
             "link": "https://youtu.be/2VBYqhMaRS8?si=hkf0e87XNC7tisP9",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "theicegod_",
+            "link": "https://www.youtube.com/shorts/XFIux_wwHt8",
+            "percent": 100,
+            "hz": 60
         }
+        
     ]
 }
