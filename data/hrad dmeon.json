@@ -8,5 +8,11 @@
     "percentToQualify": "74",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "pugthousand",
+            "link": "https://youtu.be/LkP-L3wdwHc?si=CUXZthRXDlXVG7mx",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
