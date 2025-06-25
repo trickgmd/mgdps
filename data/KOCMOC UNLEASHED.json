@@ -8,5 +8,11 @@
     "percentToQualify": "67",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Limabeanlimo",
+            "link": "https://youtu.be/cFD4TDyDm_U?si=1ASVqdYiwqDSEh5X",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
