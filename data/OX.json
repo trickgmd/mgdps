@@ -3,17 +3,11 @@
     "name": "OX",
     "author": "LightingFlash",
     "creators": ["LightingFlash"],
-    "verifier": "Semify",
-    "verification": "https://youtu.be/2LggdODKDx0?si=V5mDPufb7hzZEC4h",
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/sKP59V5ge7k?si=5hY5bRKK5VWSrS56",
     "percentToQualify": "75",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "TurboFlash",
-            "link": "https://youtu.be/sKP59V5ge7k?si=5hY5bRKK5VWSrS56",
-            "percent": 100,
-            "hz": 120
-        },
         {
             "user": "Limabeanlimo",
             "link": "https://youtu.be/pJv78yKxS_8?si=VaTogxrANWPT7_AH",
