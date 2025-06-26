@@ -3,16 +3,10 @@
     "name": "Mr CrazyHands V2",
     "author": "goggog655",
     "creators": ["goggog655"],
-    "verifier": "goggog655",
-    "verification": "",
+    "verifier": "pugthousand",
+    "verification": "https://youtu.be/35fVDorvsS0?si=GdmFp-2duohLs9RI",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "pugthousand",
-            "link": "https://youtu.be/35fVDorvsS0?si=GdmFp-2duohLs9RI",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
