@@ -3,16 +3,10 @@
     "name": "Ethernatos",
     "author": "LightingFlash",
     "creators": ["LightingFlash"],
-    "verifier": "WaterArch",
-    "verification": "https://www.youtube.com/watch?v=psK6RzoiBpo",
+    "verifier": "ManRoll",
+    "verification": "https://www.youtube.com/watch?v=iGavIvClDMU",
     "percentToQualify": "75",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "ManRoll",
-            "link": "https://www.youtube.com/watch?v=iGavIvClDMU",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
