@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Minotaur256",
+            "link": "https://youtu.be/IYBHuH9P-w4",
+            "percent": 100,
+            "hz": 240
     ]
 }
