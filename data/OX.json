@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=p8x8uTzsk0I",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Minotaur256",
+            "link": "",
+            "percent": 76,
+            "hz": 240
         }
     ]
 }
