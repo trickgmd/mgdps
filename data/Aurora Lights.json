@@ -13,6 +13,18 @@
             "link": "https://youtu.be/HtWdHjfnmj0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Minotaur256",
+            "link": "https://youtu.be/SWcNWuTo4wI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/F_UiM5GRlEM?si=dUOmE2CnMHb5cj9c",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
