@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Minotaur256",
+            "link": "https://youtu.be/8BpqrLEXrrI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "HolyMacaroni",
+            "link": "https://medal.tv/games/screen-capture/clips/nnAphva0q4exGpO9q?invite=cr-MSw1d2IsMzM0MjkxNDgy",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
