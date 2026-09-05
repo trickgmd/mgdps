@@ -100,29 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps).
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count. The click sounds mod is not allowed.
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                    </p>
+                    <p>
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                    </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes.
+                        Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies.
-                    </p>
-                    <p>
-                        Levels must be completed in normal mode. 0 death noclip completions or practice mode 1 attempt completions will not be accepted. This goes for verifications as well.
-                    </p>
-                    <p>
-                        Reuploads that are top 10 difficulty or higher will not be rated or added to the list.
+                        Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
