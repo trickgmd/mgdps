@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=NyybT7h5Zbo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NotaName",
+            "link": "https://youtu.be/rEuct_J-gW4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
