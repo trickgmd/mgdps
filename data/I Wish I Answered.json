@@ -31,7 +31,12 @@
             "link": "https://youtu.be/s86aILBCev8?si=CJIxQC6TMwyPUQQr",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "NotaName",
+            "link": "https://youtu.be/Bbnjul_Y9so",
+            "percent": 100,
+            "hz": 60
         }
-        
     ]
 }
